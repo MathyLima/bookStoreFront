@@ -1,0 +1,23 @@
+
+
+.form-group {
+    display: flex;
+}
+
+.form-group div {
+    margin-right: 1%;
+}
+
+.custom-form-edition {
+    width: 10vw;
+}
+
+.container-foot {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
+.container-foot button:first-child {
+    margin-right: 1%;
+}

@@ -1,0 +1,20 @@
+.conaiter-form {
+    width: 83vw;    
+    display: flex;
+    padding: 1vh;
+}
+
+.button-create-book {
+    margin-left: 1vw;
+}
+
+.page {
+    height: 88vh;
+    overflow-y: hidden;
+}
+
+.table-container{
+    overflow-y: auto;
+    height: 80vh;
+
+}

@@ -1,0 +1,9 @@
+.container-address {
+    display: flex;
+    flex-wrap: wrap;
+	flex-grow: 2;
+    margin: 0;
+    padding: 1vw;
+    padding-right: 0vw;
+    background-color: rgba(190, 190, 190, 0.24);
+}

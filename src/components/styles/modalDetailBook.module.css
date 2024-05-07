@@ -1,0 +1,24 @@
+.container-details {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.description-items-container {
+    width: 100%;
+}
+
+.sinopse-item th {
+    color: red;
+    width: 16vw;
+}
+
+.actions {
+    display: flex;
+    justify-content: end;    
+    padding-top: 1%;
+}
+
+.actions button {
+    margin-left: 1%;
+}
